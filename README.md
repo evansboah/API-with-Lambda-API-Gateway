@@ -120,4 +120,3 @@ This project deepened my understanding of:
 
 ```
 
-Would you like help designing a banner or visual summary to pair with this README? I can also help you write a LinkedIn post to announce the project.# API-with-Lambda-API-Gateway
